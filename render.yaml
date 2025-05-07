@@ -4,7 +4,7 @@ ervices:
     name: MeshRename
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+    startCommand: python MeshRenameBot
     repo: https://github.com/MutyalaHarshith/Mesh-RenameBot.git
     branch: master
     autoDeploy: false
