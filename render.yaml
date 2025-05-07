@@ -1,4 +1,4 @@
-ervices:
+sevices:
   - type: web
     plan: free
     name: MeshRename
